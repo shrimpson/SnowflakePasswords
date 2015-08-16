@@ -1,0 +1,2 @@
+# SnowflakePasswords
+Snowflake password generator
